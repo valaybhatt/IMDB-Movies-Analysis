@@ -13,3 +13,5 @@ Files Discription:
 1) IMDB.twb is the tableau workbook which contains all the sheets and the dashboard.
 2) movie_metadata.csv is the file which contains the dataset.
 
+The Dashboard can be seen as below:
+![alt text](https://github.com/valaybhatt/IMDB-Movies-Analysis/blob/main/IMDB-Dashboard.jpg)
