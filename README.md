@@ -9,4 +9,7 @@ The Task of the projects can be listed out as below:
 3) Genres of the Movies by the ratings.
 4) Favorite actor of the specific director.
 
+Files Discription:
+1) IMDB.twb is the tableau workbook which contains all the sheets and the dashboard.
+2) movie_metadata.csv is the file which contains the dataset.
 
